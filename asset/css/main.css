@@ -187,7 +187,7 @@
     background-color: #00b3cc;
     flex: 1;
     border-right: 1px solid #cccc;
-    font-size:1.8rem;
+    font-size:1.2rem;
 }
 
 .btn__bag {
@@ -199,19 +199,28 @@
     color: white;
     flex: 1;
     border-right: 1px solid #cccc;
-    font-size:1.8rem;
+    font-size:1.2rem;
 }
+
+
+.btn__chat i {
+    font-size: 2rem;
+}
+
+.btn__bag i {
+    font-size: 2rem;
+}
+
 
 .btn__bring {
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 10px 0px;
+    padding: 14px 0px;
     color: white;
     flex: 1;
     background-color: #FB5533;
-    font-size: 1.3rem;
-    font-size:2rem;
+    font-size: 1.8rem;
 }
 
 /* Navbar menu */
