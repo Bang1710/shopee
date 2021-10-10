@@ -187,6 +187,7 @@
     background-color: #00b3cc;
     flex: 1;
     border-right: 1px solid #cccc;
+    font-size:1.8rem;
 }
 
 .btn__bag {
@@ -198,6 +199,7 @@
     color: white;
     flex: 1;
     border-right: 1px solid #cccc;
+    font-size:1.8rem;
 }
 
 .btn__bring {
@@ -209,6 +211,7 @@
     flex: 1;
     background-color: #FB5533;
     font-size: 1.3rem;
+    font-size:2rem;
 }
 
 /* Navbar menu */
