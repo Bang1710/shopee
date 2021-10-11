@@ -89,6 +89,7 @@
     .header-with-search{
         flex-wrap: nowrap;
         justify-content: end;
+        float:right;
     }
 
     .header {
